@@ -2,9 +2,9 @@
 
 ## User Story
 ```md
-AS A member of a busy family
-I WANT to have a place where I can communicate with a limited group of people 
-SO THAT we can organize, plan and share with each other in a platform with limited distractions
+`AS A member of a busy family`
+`I WANT to have a place where I can communicate with a limited group of people`
+`SO THAT we can organize, plan and share with each other in a platform with limited distractions`
 ```
 
 ## Description
@@ -79,7 +79,9 @@ Navigate to the above website. Join the community. Enjoy!
 
 ## Future Development
 ○ Add notification feature to alert family members of activities and edits to existing activities
+
 ○ Read only shareable calendar links
+
 ○ Custom calendar views based on the user login
 
 ## Acknowledgements
@@ -88,7 +90,12 @@ Navigate to the above website. Join the community. Enjoy!
 
 ## Contributing
 [Shane](https://github.com/spurgason)
+
 [Phillip](https://github.com/cltmedicman)
+
 [Tenee](https://github.com/trswork)
+
 [Pamela](https://github.com/pamelac21)
+
 [Josh](https://github.com/mcswajl)
+
