@@ -1,5 +1,7 @@
 # run-buddy
 
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 ## User Story
 ```md
 `AS A member of a busy family`
@@ -58,6 +60,7 @@ THEN I am signed out of the site
 
 ## Usage
 [Deployed Site](heroku-link)
+
 Navigate to the above website. Join the community. Enjoy!
 
 [SS/video of deployed site]
@@ -65,16 +68,29 @@ Navigate to the above website. Join the community. Enjoy!
 
 ## Technologies Used
 `node.js`
+
 `MySQL2`
+
 `Sequelize`
+
 `Cloudinary`
+
 `bcrypt`
+
 `connect-session-sequelize`
+
 `dotenv`
+
 `express`
+
 `express-handlebars`
+
 `express-sessions`
+
 `seeds`
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamelac21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Future Development
@@ -88,7 +104,7 @@ Navigate to the above website. Join the community. Enjoy!
 `Google Calendar`
 
 
-## Contributing
+## Contributing [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 [Shane](https://github.com/spurgason)
 
 [Phillip](https://github.com/cltmedicman)
@@ -98,4 +114,5 @@ Navigate to the above website. Join the community. Enjoy!
 [Pamela](https://github.com/pamelac21)
 
 [Josh](https://github.com/mcswajl)
+
 
