@@ -90,7 +90,7 @@ Navigate to the above website. Join the community. Enjoy!
 `seeds`
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamelac21&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamelac21&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Future Development
